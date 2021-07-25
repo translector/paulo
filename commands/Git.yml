@@ -7,3 +7,10 @@ git add . : Addiciona tudo ao GIT
 git --version: ver a versao do git
 git commit -m "mensagem": "empacota o arquivo"
 git push : envia ao github (ou semelhante)
+git fetch : confere se tem outros commits 
+git pull: traz as modificacoes
+git branch --all : mostra todos os galhos
+git branch : mostra o galho master
+git checkout -b "mensagem" : adiciona um galho novo
+git checkout branch "nome do galho" : muda para o galho q vc quer
+git branch: mostra o galho que vc esta
