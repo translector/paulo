@@ -8,4 +8,6 @@ touch: Make a File -- touch filename.txt
 cd ..: Change Directory (Voltar)
 cd paulo: Change Directory (entrar na pasta)
 clear: Limpa tudo o historial
-
+cp "nome do arquivo": copia o arquivo
+rm "nome do arquivo": remove arquivo
+rm -rf: remove arquivo tbm
