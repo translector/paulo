@@ -1,0 +1,6 @@
+GIT Basic Command.
+
+git init: iniciatte a new repository
+git status: indicates the status of your repository
+git add NomedoArquivo.yml: addiciona um archivo a GIT
+git add . : Addiciona tudo ao GIT

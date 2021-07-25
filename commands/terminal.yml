@@ -1,0 +1,11 @@
+Basic Terminal Commands.
+
+pdw: print working directory
+ls: List directories and files
+ls -la: List directories and files with more information
+mkdir: Make Directory -- mkdir paulo
+touch: Make a File -- touch filename.txt 
+cd ..: Change Directory (Voltar)
+cd paulo: Change Directory (entrar na pasta)
+clear: Limpa tudo o historial
+
